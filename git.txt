@@ -1,0 +1,10 @@
+1.  cd veggie-favorites
+3.  cd ../veggie-clone
+4.  git fetch origin
+5.  git merge origin/master
+6.  git branch recipe
+6.  git checkout recipe
+7.  git add new-recipe.txt
+8.  git fetch origin
+9.  git push origin recipe
+10. cd ../veggie-favorites
